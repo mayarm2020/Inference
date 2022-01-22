@@ -2,7 +2,9 @@
 title: "Inference"
 author: "Mayar"
 date: "1/22/2022"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 Simulation
